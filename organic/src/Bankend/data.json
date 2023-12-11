@@ -1,0 +1,39 @@
+[
+    {
+        "Category":"Soap",
+        "Item":"Cinthol",
+        "Rate":25,
+        "Quantity":100
+    },
+    {
+        "Category": "Bread",
+        "Item": "Whole Wheat Bread",
+        "Rate": 3.4,
+        "Quantity": 68
+    },
+    {
+        "Category" : "Beverages",
+        "Item" :"Coke",
+        "Rate":79,
+        "Quantity":100
+    },
+    {
+        "Category" : "Snacks",
+        "Item" :"Chocolate Bar",
+        "Rate":10,
+        "Quantity":100
+    },
+    {
+        "Category" : "Dairy Products",
+        "Item" :"Milk Powder",
+        "Rate":10,
+        "Quantity":100
+    },
+    {
+        "Category" : "Meat & Seafood",
+        "Item" :"Chicken Breast",
+        "Rate":10,
+        "Quantity":100
+    }
+    
+]

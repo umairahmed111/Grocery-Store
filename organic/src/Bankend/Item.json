@@ -1,0 +1,224 @@
+[
+    {
+        "Category":"Fruits",
+        "Item":"Mango",
+        "Rate":60,
+        "Quantity":136
+    },
+    {
+        "Category":"Fruits",
+        "Item":"Banana",
+        "Rate":30,
+        "Quantity":206
+    },
+    {
+        "Category":"Fruits",
+        "Item":"Grapes",
+        "Rate":70,
+        "Quantity":86
+    },
+    {
+        "Category":"Fruits",
+        "Item":"Apples",
+        "Rate":130,
+        "Quantity":80
+    },
+    {
+        "Category":"Fruits",
+        "Item":"Coconut",
+        "Rate":20,
+        "Quantity":60
+    },
+    {
+        "Category":"Vegetables",
+        "Item":"Onions",
+        "Rate":40,
+        "Quantity":60
+    },
+    {
+        "Category":"Vegetables",
+        "Item":"Ginger",
+        "Rate":30,
+        "Quantity":40
+    },
+    {
+        "Category":"Vegetables",
+        "Item":"Garlic",
+        "Rate":60,
+        "Quantity":80
+    },
+    {
+        "Category":"Vegetables",
+        "Item":"Potato",
+        "Rate":40,
+        "Quantity":160
+    },
+    {
+        "Category":"Vegetables",
+        "Item":"Carrots",
+        "Rate":40,
+        "Quantity":30
+    },
+    {
+        "Category":"Vegetables",
+        "Item":"Cabbage family",
+        "Rate":50,
+        "Quantity":30
+    },
+    {
+        "Category":"Animal Produce",
+        "Item":"Chicken",
+        "Rate":150,
+        "Quantity":80
+    },
+    {
+        "Category":"Animal Produce",
+        "Item":"Meat",
+        "Rate":600,
+        "Quantity":60
+    },
+    {
+        "Category":"Animal Produce",
+        "Item":"Fish",
+        "Rate":150,
+        "Quantity":50
+    },
+    {
+        "Category":"Animal Produce",
+        "Item":"Eggs",
+        "Rate":9,
+        "Quantity":130
+    },
+    {
+        "Category":"Dairy Products",
+        "Item":"Milk",
+        "Rate":25,
+        "Quantity":130
+    },
+    {
+        "Category":"Dairy Products",
+        "Item":"Cheese",
+        "Rate":60,
+        "Quantity":80
+    },
+    {
+        "Category":"Dairy Products",
+        "Item":"Butter",
+        "Rate":125,
+        "Quantity":60
+    },
+    {
+        "Category":"Dairy Products",
+        "Item":"Yogurt",
+        "Rate":25,
+        "Quantity":80
+    },
+    {
+        "Category":"Dairy Products",
+        "Item":"Ghee",
+        "Rate":60,
+        "Quantity":70
+    },
+    {
+        "Category":"Bakery Products",
+        "Item":"Whole wheat bread",
+        "Rate":20,
+        "Quantity":70
+    },
+    {
+        "Category":"Bakery Products",
+        "Item":"Bakery buns",
+        "Rate":10,
+        "Quantity":170
+    },
+    {
+        "Category":"Bakery Products",
+        "Item":"Biscuits",
+        "Rate":5,
+        "Quantity":270
+    },
+    {
+        "Category":"Bakery Products",
+        "Item":"Cakes",
+        "Rate":220,
+        "Quantity":10
+    },
+    {
+        "Category":"Condiments",
+        "Item":"Salt",
+        "Rate":22,
+        "Quantity":210
+    },
+    {
+        "Category":"Condiments",
+        "Item":"Sugar",
+        "Rate":50,
+        "Quantity":110
+    },
+    {
+        "Category":"Condiments",
+        "Item":"Tumeric",
+        "Rate":70,
+        "Quantity":70
+    },
+    {
+        "Category":"Best Seller",
+        "Item":"Banana",
+        "Rate":30,
+        "Quantity":206
+    },
+    {
+        "Category":"Best Seller",
+        "Item":"Coffee",
+        "Rate":130,
+        "Quantity":120
+    },
+    {
+        "Category":"Best Seller",
+        "Item":"Milk",
+        "Rate":25,
+        "Quantity":130
+    },
+    {
+        "Category":"Best Seller",
+        "Item":"Eggs",
+        "Rate":9,
+        "Quantity":130
+    },
+    {
+        "Category":"Best Seller",
+        "Item":"Cheese",
+        "Rate":60,
+        "Quantity":180
+    },
+    {
+        "Category":"Soaps",
+        "Item":"Dove",
+        "Rate":40,
+        "Quantity":120
+    },
+    {
+        "Category":"Soaps",
+        "Item":"Lifebuoy",
+        "Rate":30,
+        "Quantity":220
+    },
+    {
+        "Category":"Soaps",
+        "Item":"Lux",
+        "Rate":25,
+        "Quantity":180
+    },
+    {
+        "Category":"Soaps",
+        "Item":"Nivea",
+        "Rate":50,
+        "Quantity":70
+    },
+    {
+        "Category":"Soaps",
+        "Item":"Cinthol",
+        "Rate":20,
+        "Quantity":250
+    }
+]

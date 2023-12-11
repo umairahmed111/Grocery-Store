@@ -1,0 +1,29 @@
+/* Footer.css */
+
+.footer-container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.subscribe-input {
+    margin-top: 10px;
+}
+
+.subscribe-input input[type='email'] {
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    margin-right: 5px;
+}
+
+.subscribe-btn {
+    padding: 8px 15px;
+    border-radius: 4px;
+    background-color: #00b61e;
+    color: white;
+    text-decoration: none;
+}
